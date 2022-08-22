@@ -1,0 +1,2 @@
+# CheerfullNinjaGame_IzzanimationStudio
+Game project
